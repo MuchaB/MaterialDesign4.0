@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Material Design 4.0</string>
+    <string name="Navigate">navigate</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    
+    <string name="drawer_open">Open</string>
+
+    <string name="drawer_closed">Close</string>
+    
+</resources>
